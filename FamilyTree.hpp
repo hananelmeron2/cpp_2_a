@@ -7,7 +7,7 @@ namespace family
     
 
     // struct to create family tree node
-    struct TreeNode
+    class TreeNode
     {
       public:
 	    string person_name;
