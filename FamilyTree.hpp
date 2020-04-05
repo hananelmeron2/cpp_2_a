@@ -26,7 +26,7 @@ namespace family
         {
             input = person_name;
             root = new TreeNode;
-            root->person_name = person_name;
+            root->person_name = input;
             root->left = NULL;
             root->right = NULL;
         }
