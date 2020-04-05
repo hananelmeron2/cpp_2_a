@@ -11,7 +11,7 @@ namespace family
     {
       public:
 	    string person_name;
-      TreeNode(string person_name);
+      //TreeNode(string person_name);
 
     };
    
